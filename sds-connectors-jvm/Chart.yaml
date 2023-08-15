@@ -23,6 +23,7 @@ version: 0.1.0
 # It is recommended to use it with quotes.
 appVersion: "latest"
 
+icon: https://isc-jilee.github.io/sds-connectors-jvm-charts/sds-connectors-jvm/icon.png
 annotations:
   intersystems/sds-title: SDS Connectors JVM
   intersystems/sds-organization: InterSystems Corporation
