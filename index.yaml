@@ -7,13 +7,13 @@ entries:
       intersystems/sds-title: SDS Connectors JVM
     apiVersion: v2
     appVersion: latest
-    created: "2023-08-15T15:44:04.892095908-04:00"
+    created: "2023-08-15T15:44:22.38893386-04:00"
     description: A Helm chart for Kubernetes
-    digest: 0865f64708f5542df8095c42b568b310fb2bf345905d619a77b53553e0c9ad8c
+    digest: 78e4b296bc0db7085631075d7fb20a899a516664dfca2ced570c7d1714ddd8d7
     icon: https://isc-jilee.github.io/sds-connectors-jvm-charts/sds-connectors-jvm/icon.png
     name: sds-connectors-jvm
     type: application
     urls:
     - https://isc-jilee.github.io/sds-connectors-jvm-charts/sds-connectors-jvm-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-15T15:44:04.890992077-04:00"
+generated: "2023-08-15T15:44:22.388333923-04:00"
